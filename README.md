@@ -1,5 +1,5 @@
-# citycentral
-Demo project for retail module
+# Welcome to City Central Sale
+Demo project for retails module
 
 ## Enhancement to do -
 
